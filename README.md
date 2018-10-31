@@ -32,7 +32,7 @@
     url: https://demo.duoguyu.com/index/api/tag
 
   5. 标签搜索
-    url: `${baseUrl}/tag_search`
+    url: https://demo.duoguyu.com/index/api//tag_search
 
   6. 列表页、通用搜索
     url： https://demo.duoguyu.com/index/api
