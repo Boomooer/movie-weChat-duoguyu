@@ -53,8 +53,7 @@
 
 2. 关于我
   - tonney@duoguyu.com（E-mail）
-  - http://www.duoguyu.com（个人网站）
-  - http://blog.duoguyu.com（个人博客）
+  - https://www.duoguyu.com（个人博客）
   - VinosToby（微信）
 
 #### 后续迭代升级
@@ -62,6 +61,6 @@
   后续升级迭代计划及相关补丁，请关注微信小程序搜索：多骨鱼。
 
 #### 小程序 - 二维码
-![image](http://www.duoguyu.com/dist/weChat/gh_07f5145fa318_258.jpg)
+![image](https://www.duoguyu.com/dist/weChat/gh_07f5145fa318_258.jpg)
   
   
